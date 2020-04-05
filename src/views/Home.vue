@@ -8,7 +8,7 @@
               <v-window v-model="step">
                 <v-window-item :value="1">
                   <v-row class="fill-height">
-                    <v-col cols="12" md="12" class="pinli">
+                    <v-col cols="12" md="12" class="pink light-2">
                       <v-card-text class="white--text mt-12">
                         <h1 class="text-center display-1">Welcome !</h1>
                         <h5 class="text-center">To keep connected with us please login with your personnel info</h5>
